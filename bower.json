@@ -1,0 +1,14 @@
+{
+  "name": "iGeoTracker",
+  "dependencies": {
+    "bootstrap-css-only": "~3.3.5",
+    "angular-resource": "~1.4.7",
+    "angular-route": "~1.4.7",
+    "angular-datepicker": "~1.0.20",
+    "isteven-angular-multiselect": "~4.0.0",
+    "angular": "~1.4.7"
+  },
+  "resolutions": {
+    "angular": "~1.4.7"
+  }
+}
