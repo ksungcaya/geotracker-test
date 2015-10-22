@@ -1,0 +1,23 @@
+{
+    "folders": [
+        {
+            "path": "/Users/ksungcaya/code/geotrack",
+            "folder_exclude_patterns": [".git"],
+            "follow_symlinks": true
+        },
+    ],
+
+    "phpcompanion": {
+        "namespace_prefix": "App",
+        "exclude_dir": [
+            ".git"
+        ]
+    },
+
+    "build_systems": [
+        {
+            "name": "List",
+            "shell_cmd": "ls -l"
+        }
+    ]
+}
